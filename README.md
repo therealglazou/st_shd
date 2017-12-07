@@ -1,2 +1,2 @@
 # ST_Shd
-Open Office XML shading patterns for JavaScript
+Office Open XML shading patterns for JavaScript
